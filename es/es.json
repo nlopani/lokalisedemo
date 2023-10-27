@@ -1,0 +1,19 @@
+{
+    "about": {
+        "welcome": "Bienvenido a la página Acerca de"
+    },
+    "main": {
+        "about": "Quiénes somos",
+        "g2": "Lea sobre nosotros en G2",
+        "get2know": "Conoce Lokalise",
+        "get2know_message": "Nuestro objetivo es eliminar las complicaciones de la localización proporcionando herramientas para automatizar, integrar y gestionar mejor sus traducciones. Lokalise es la mejor forma de que las empresas orientadas al crecimiento amplíen sus aplicaciones móviles, juegos, software o contenidos digitales a varios idiomas.",
+        "new_message": "ningún mensaje | un mensaje | {contar} mensajes",
+        "sign-in": "Iniciar sesión con Google",
+        "welcome": "¡Hola desde Lokalise!"
+    },
+    "menu": {
+        "about": "Acerca de",
+        "home": "Inicio",
+        "privacy": "Privacidad"
+    }
+}
