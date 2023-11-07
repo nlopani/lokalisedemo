@@ -9,7 +9,8 @@
         "get2know_message": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate and better manage your translations. Lokalise is a better way for growth-oriented companies to expand their mobile apps, games, software or digital content into multiple languages.",
         "new_message": "no messages | one message | {count} messages",
         "sign-in": "Sign in with Google",
-        "welcome": "Hello from Lokalise!"
+        "welcome": "Hello from Lokalise!",
+        "hello": "hi from our team!"
     },
     "menu": {
         "about": "About",
